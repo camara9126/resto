@@ -1,0 +1,9 @@
+h1{
+    background-color:aquamarine;
+    color: brown;
+}
+#copy{
+    text-align: center;
+    background-color: aqua;
+    height: inherit;
+}
